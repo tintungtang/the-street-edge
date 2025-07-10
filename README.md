@@ -47,10 +47,10 @@ Installation steps:
 
 1. Clone repository:
 ```bash
-git clone https://github.com/CodeF1ow/codextreme-web.git
-cd codextreme-web
+git clone https://github.com/CodeF1ow/the-street-edge.git
+cd the-street-edge
 ```
-2. Install dependencies::
+2. Install dependencies:
 ```bash
 pnpm install
 ```
@@ -62,6 +62,11 @@ pnpm run dev
 ```bash
 pnpm run build
 ```
+
+## Contributing
+We welcome contributions! Feel free to open an issue or submit a pull request
+with improvements or bug fixes. For major changes, please open an issue first
+to discuss what you would like to change.
 
 ## License
 This project is open source under the MIT license.
